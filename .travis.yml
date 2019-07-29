@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+- node
+deploy:
+  provider: heroku
+  app: desolate-river-35302
+  api_key:
+    secure: I5AZ1Bkk5B3nZMJ2D8udCfZbjNgbrxnGFGVjsFdEmKIWdcXt/LFxXVl5k8QrkgQI+8YhIoYniepP47uYXj+b1+0o9i7ZgnkLH38NT5RtCPEGGrq/VeEnmLYEMibfjkWfGL/VJnJGNbrxjdHoiBaJ4Cw71li62feH9LcLDIMrrHof/UQipBXb9saMxpm5Y9EYPDMF38GVNIoRvfJreSnLauzI/Z5O78BGQjt3T0/5/ga4SvEcs/O59P16DUq48GurJ4W/0uozSTysJE+4et0MmoFnz78NxWkAva3PJfRzR/VTUT0BuNVwXCDlOowU43GuWZF1wVycd8J+i7BUtlWBqUSMIFsaAFEQHaC6DzYrBVYzieDdifPgVX0Od+oougRrOwGvZBPkZZXjgCvtTVnPGjKeI8EyayI95HPdhcRQ/N+4cF680p5D/CEhwzgFbjsi+RpBFav0mnNbMSG0R4k5TRNMztU7VsOMihOhRSQAYhsqxC67z6e5kcYB5/dJPD4+lz2eAo6A2ncK0abFz29yLT13//F7l/hb6Fxv0ndrfQ0gpI87st4oizmqqbhnN1oa16/Q8Q0oT+LHhQZtVMhOjU6ztDLCr2hAy9ynKDqBTMRRNnP4eK/vzLdjGRr4MS+4dK6gZk+62N1QqZwvc4r1mzDKveoLGAbpPd/uMHhhacg=
